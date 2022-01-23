@@ -15,4 +15,4 @@ total += tipAmount
 total = round(total, 2)
 
 #print the total
-print("The total is $", total)
+print("The total is $", total, sep = '')
